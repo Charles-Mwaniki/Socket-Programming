@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1511372446 source:/home/darthvader/Code::Blocks/client0/main.c
+	<stdio.h>
+	<unistd.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<netinet/in.h>
+	<string.h>
+
